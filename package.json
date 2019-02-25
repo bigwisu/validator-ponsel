@@ -1,0 +1,25 @@
+{
+  "name": "validator-ponsel",
+  "version": "1.0.0",
+  "description": "Melakukan validasi nomor ponsel",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bigwisu/validator-ponsel.git"
+  },
+  "author": "Wisu Suntoyo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bigwisu/validator-ponsel/issues"
+  },
+  "homepage": "https://github.com/bigwisu/validator-ponsel#readme",
+  "devDependencies": {
+    "eslint": "^5.14.1",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.16.0",
+    "mocha": "^6.0.0"
+  }
+}
