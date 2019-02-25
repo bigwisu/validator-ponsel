@@ -4,7 +4,9 @@ This library will also detect the operator.
 
 ## Install
 
-```npm install validator-ponsel```
+```
+npm install validator-ponsel
+```
 
 ## Usage
 
