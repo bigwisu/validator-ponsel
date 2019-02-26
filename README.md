@@ -51,8 +51,8 @@ console.log(nomorXl); // will result xl
 
 ## Moving Forward
 
-* I very opened for feedback on detection pattern, specially the number of digits
-* Interesting if this library can be extended to detect mobile operators from other countries based on the string's format. Contributors wanted!
+* I'm very opened for feedback on detection pattern, specially the number of digits
+* Also will be interesting if this library can be extended to detect mobile operators from other countries based on the string's format. Contributors wanted!
 
 ## License
 
