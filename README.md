@@ -22,7 +22,7 @@ npm install validator-ponsel
 const ponsel = require('validator-ponsel');
 
 const nomorAxis = ponsel('0838 1234 5678');
-console.log(nomorAxis); // will result xl
+console.log(nomorAxis); // will result axis
 
 const nomorIndosat = ponsel('0816 1232 5678');
 console.log(nomorIndosat); // will result indosat
