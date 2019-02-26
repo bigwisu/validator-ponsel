@@ -3,24 +3,20 @@ A small tool to lookup a string and identify it as a valid Indonesian mobile ope
 
 ## Available Mobile Operators
 
-1. Axis
-
-...Based on prefixes 0838, 0831, 0832, 0833 followed by 7 to 9 digits
-1. Indosat
-
-...Based on prefixes 0814, 0815, 0816 followed by 6 to 8 digits and prefixes 0855, 0856, 0857, 0858 followed by 7 to 10 digits
-1. Smartfren
-
-...Based on prefixes 0881, 0882, 0883, 0884, 0885, 0886, 0887, 0888, 0889 followed by 7 to 8 digits
-1. Telkomsel
-
-...Based on prefix 0811 followed by 6 to 8 digits and prefixes 0812, 0813, 0821, 0822, 0823, 0852, 0853, 0851 followed by 8 digits
-1. Three
-
-...Based on prefixes 0895, 0896, 0897, 0898, 0899 followed by 7 to 10 digits
-1. XL
-
-...Based on prefixes 0817, 0818, 0819 followed by 6 to 8 digits and 0859, 0877, 0878 followed by 8 to 10 digits
+<dl>
+<dt>Axis</dt>
+<dd>Based on prefixes 0838, 0831, 0832, 0833 followed by 7 to 9 digits</dd>
+<dt>Indosat</dt>
+<dd>Based on prefixes 0814, 0815, 0816 followed by 6 to 8 digits and prefixes 0855, 0856, 0857, 0858 followed by 7 to 10 digits</dd>
+<dt>Smartfren</dt>
+<dd>Based on prefixes 0881, 0882, 0883, 0884, 0885, 0886, 0887, 0888, 0889 followed by 7 to 8 digits</dd>
+<dt>Telkomsel</dt>
+<dd>Based on prefix 0811 followed by 6 to 8 digits and prefixes 0812, 0813, 0821, 0822, 0823, 0852, 0853, 0851 followed by 8 digits</dt>
+<dt>Three</dt>
+<dd>Based on prefixes 0895, 0896, 0897, 0898, 0899 followed by 7 to 10 digits</dd>
+<dt>XL</dt>
+<dd>Based on prefixes 0817, 0818, 0819 followed by 6 to 8 digits and 0859, 0877, 0878 followed by 8 to 10 digits</dd>
+<dl>
 
 ## Install
 
