@@ -20,7 +20,7 @@ const operators = [
     name: 'indosat'
   },
   {
-    pattern: /^(\+?62|0)8(8[1-9](\d{7,8}))$/,
+    pattern: /^(\+?62|0)8(8[1-9](\d{7,9}))$/,
     name: 'smartfren'
   }
 ];
