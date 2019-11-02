@@ -9,7 +9,7 @@ A small tool to lookup a string and identify it as a valid Indonesian mobile ope
 <dt>Indosat</dt>
 <dd>Based on prefixes 0814, 0815, 0816 followed by 6 to 8 digits and prefixes 0855, 0856, 0857, 0858 followed by 7 to 10 digits</dd>
 <dt>Smartfren</dt>
-<dd>Based on prefixes 0881, 0882, 0883, 0884, 0885, 0886, 0887, 0888, 0889 followed by 7 to 8 digits</dd>
+<dd>Based on prefixes 0881, 0882, 0883, 0884, 0885, 0886, 0887, 0888, 0889 followed by 7 to 9 digits</dd>
 <dt>Telkomsel</dt>
 <dd>Based on prefix 0811 followed by 6 to 8 digits and prefixes 0812, 0813, 0821, 0822, 0823, 0852, 0853, 0851 followed by 8 digits</dt>
 <dt>Three</dt>
