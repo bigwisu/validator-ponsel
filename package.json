@@ -1,6 +1,6 @@
 {
   "name": "validator-ponsel",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Melakukan validasi nomor ponsel",
   "main": "index.js",
   "scripts": {
