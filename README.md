@@ -39,7 +39,7 @@ const nomorSmartfren = ponsel('0888 1234 5678');
 console.log(nomorSmartfren); // will result smartfren
 
 const nomorTelkomsel = ponsel('0812 1234 5678');
-console.log(nomorAxis); // will result telkomsel
+console.log(nomorTelkomsel); // will result telkomsel
 
 const nomorThree = ponsel('0899 1234 5678');
 console.log(nomorThree); // will result three
