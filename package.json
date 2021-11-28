@@ -1,6 +1,6 @@
 {
   "name": "validator-ponsel",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "Melakukan validasi nomor ponsel",
   "main": "index.js",
   "scripts": {
@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/bigwisu/validator-ponsel#readme",
   "devDependencies": {
-    "eslint": "^5.16.0",
+    "eslint": "^8.3.0",
     "eslint-config-airbnb-base": "^13.2.0",
     "eslint-plugin-import": "^2.22.0",
     "mocha": "^8.1.1"
